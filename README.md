@@ -1,5 +1,5 @@
 # detekcija-pneumonije-projekt
-Kolegij: Obrada slike i računalni vid, diplomski studij Računarstvo, mentor: Marin Benčević
+Kolegij: Obrada slike i računalni vid, diplomski studij Računarstvo, mentor: dr. sc. Marin Benčević
 
 ## Opis projekta: 
 Ovaj projekt istražuje primjenu aktivnog učenja (Active Learning) u kombinaciji s prijenosnim učenjem (Transfer Learning) za detekciju pneumonije na rendgenskim snimkama pluća. Glavni cilj bio je usporediti učinkovitost pametnog odabira podataka (strategije nesigurnosti) u odnosu na standardno nasumično uzorkovanje.
